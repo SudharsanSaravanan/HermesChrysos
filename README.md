@@ -1,7 +1,7 @@
 ﻿# HermesChrysos  
 **Early-Morning Gold Market Insight Engine (Educational Project)**
 
-## ⚠️ Important Disclaimer
+## ⚠︎ Important Disclaimer
 
 This project is built **strictly for educational and learning purposes**.  
 It is **NOT financial advice** and **must not be used for live trading decisions**.
