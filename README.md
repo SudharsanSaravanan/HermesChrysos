@@ -159,11 +159,10 @@ This structure mirrors **real-world desk-level analysis**, but in a simplified a
 Built as a learning project to understand
 **how early-morning gold market behavior is estimated in practice**.
 
----
-
-# Install Python dependencies (For Groww API) with:
+## Install Python dependencies (For Groww API) with:
 
 ```bash
 pip install -r requirements.txt
 ```
+
 
