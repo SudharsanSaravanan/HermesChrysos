@@ -65,7 +65,7 @@ HERMESCHRYSOS/
 │   ├── predict.rs               # Prediction logic
 │   └── main.rs                  # Final report output
 │
-├── .env                         # API keys (NOT committed)
+├── .env                         # API keys
 ├── Cargo.toml
 ├── Cargo.lock
 └── README.md
@@ -166,3 +166,4 @@ Built as a learning project to understand
 ```bash
 pip install -r requirements.txt
 ```
+
