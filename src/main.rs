@@ -36,7 +36,7 @@ async fn main() {
     );
 
     // ── PRINT MARKET DATA ──
-    println!("🪙 COMEX Gold (XAU/USD)");
+    println!("\n🪙 COMEX Gold (XAU/USD)");
     println!("   Price        : ${:.2}", comex_price);
     println!("   Prev Close   : ${:.2}", comex_prev);
     println!("   Change       : {:.2}%", comex_change_pct);
