@@ -1,0 +1,5 @@
+growwapi
+pyotp
+pandas
+requests
+python-dotenv
