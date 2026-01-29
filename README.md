@@ -139,6 +139,8 @@ This structure mirrors **real-world desk-level analysis**, but in a simplified a
 ## Example Output
 <img width="1178" height="912" alt="image" src="https://github.com/user-attachments/assets/8517adda-1615-43b8-9813-1fbfbb728a4b" />
 
+▶️ [Click here to watch the demo video](https://github.com/user-attachments/assets/0fca0a1f-b4b9-48d2-a22c-af69e7aa898a)
+
 
 ## Notes
 
